@@ -1,0 +1,60 @@
+body{
+    background-image: linear-gradient(to left, #4B0082, #f08080);
+}
+h1{
+    color: #f5f5dc;
+    font-size: 45px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;
+    justify-content: center;
+}
+p{
+    color: #f5f5dc;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a{
+    margin-left: 5px;
+    color: #f5f5dc;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+input{
+    background: #ffdead;
+    border-color: transparent;
+    height: 35px;
+    border-radius: 15px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+button{
+    background: #ffdead;
+    border-color: transparent;
+    border-radius: 8px;
+    height: 30px;
+    width: 100px;
+}
+fieldset{
+    border-color: transparent;
+}
+.Nome{
+    display: flex;
+    justify-content: center;
+}
+.dados{
+    display: flex;
+    justify-content: center;
+}
+.botao{
+    display: flex;
+    justify-content: center;
+}
+.voltar{
+    display: flex;
+    justify-content: center;
+}
+.caixa{
+    display: flex;
+    width: 97vw;
+    height: 95vh;
+    align-items: center;
+    justify-content: center;
+}

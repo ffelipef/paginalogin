@@ -1,0 +1,74 @@
+body {
+    background-image: linear-gradient(to right, #4B0082, #f08080);
+}
+h1 {
+    color: #f5f5dc;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;
+    font-size: 45px;
+    justify-content: center
+}
+
+p {
+    color: #ffebcd;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    justify-content: center
+}
+a {
+    margin-left: 5px;
+    color: #ffebcd;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    justify-content: center
+}
+fieldset {
+    border-radius: 30px;
+    width: 300px;
+    margin: center;
+    border-top: transparent;
+    border-bottom: transparent;
+    border-right-color: #4B0082;
+    border-left-color: #f08080;
+    display: block;
+    justify-content: center
+}
+input{
+    background:#FFDEAD;
+    margin-bottom: 10px;
+    height: 35px;
+    border-radius: 15px;
+    border-color: transparent;
+}
+button{
+    background: #FFDEAD;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 100px;
+    height: 30px;
+    border-radius: 8px;
+    border-color: transparent;
+}
+::placeholder{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.botao {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center
+}
+.user {
+    display: flex;
+    justify-content: center
+}
+.senha {
+    display: flex;
+    justify-content: center
+}
+.caixa {
+    display: flex;
+    width: 97vw;
+    height: 95vh;
+    align-items: center;
+    justify-content: center;
+
+}
